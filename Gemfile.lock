@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    RubyInline (3.12.4)
+      ZenTest (~> 4.3)
+    ZenTest (4.11.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  RubyInline (~> 3.12.4)
