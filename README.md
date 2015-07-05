@@ -35,5 +35,5 @@ Testing [RubyInline](https://github.com/seattlerb/rubyinline) things go faster, 
 
 ```
 bundle install
-ruby simple_extension.rb
+ruby rubyinline_example.rb
 ```
