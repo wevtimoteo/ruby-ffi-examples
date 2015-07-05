@@ -37,3 +37,13 @@ Testing [RubyInline](https://github.com/seattlerb/rubyinline) things go faster, 
 bundle install
 ruby rubyinline_example.rb
 ```
+
+Using FFI gem
+-------------
+
+Testing [FFI](https://github.com/ffi/ffi):
+
+```
+bundle install
+ruby ffi_example.rb
+```
