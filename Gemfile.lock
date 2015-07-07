@@ -5,10 +5,15 @@ GEM
       ZenTest (~> 4.3)
     ZenTest (4.11.0)
     ffi (1.9.6)
+    ffi (1.9.6-java)
 
 PLATFORMS
+  java
   ruby
 
 DEPENDENCIES
   RubyInline (~> 3.12.4)
   ffi
+
+BUNDLED WITH
+   1.10.5
