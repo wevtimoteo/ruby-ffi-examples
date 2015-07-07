@@ -1,5 +1,5 @@
-My Ruby's C extension
-=====================
+Ruby FFI Examples
+=================
 
 Native way
 ----------
